@@ -1,5 +1,20 @@
 
 
+//Documentation Section
+
+/*
+File Name : Lab 7
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : Solving these examples by writing a code printing the results of Z, K, L, M, N. 
+Date : 17/7/2025 
+*/
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
